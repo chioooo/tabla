@@ -1,0 +1,32 @@
+body {
+    background-color: #ffffff;
+    font-family: Georgia;
+    text-align: justify;
+}
+
+h1 {
+    color: #000000;
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  th {
+    background-color: #e6f4cc;
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+
+  td{
+    background-color: #f4cce6;
+  }
+
+  th, td {
+    border-color: #cce6f4;
+  }
