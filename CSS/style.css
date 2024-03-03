@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #cce6f4;
     font-family: Georgia;
     text-align: justify;
 }
@@ -17,16 +17,21 @@ img {
     margin-right: auto;
   }
 
+  video{
+    margin-left: 170px;
+    margin-right: 170px;
+  }
+
   th {
     background-color: #e6f4cc;
     color: rgb(0, 0, 0);
     text-align: center;
   }
 
-  td{
+  tr{
     background-color: #f4cce6;
   }
 
-  th, td {
-    border-color: #cce6f4;
+  #sucesos tr:hover {
+    background-color: #c72ae3;
   }
